@@ -1,0 +1,2 @@
+import pragati
+print(ece())

@@ -1,0 +1,3 @@
+def ece():
+    print("hiiiii")
+
